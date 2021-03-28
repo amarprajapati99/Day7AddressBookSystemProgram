@@ -1,6 +1,8 @@
 package com.adderssboook.bridgelabz;
 
 public class Contact {
+	// instance variable declare
+
 	private String firstName;
 	private String lastName;
 	private String address;
